@@ -15,7 +15,7 @@ Il permet d'afficher une grille d'images, et lorsqu'on clique sur une image, ell
 
 ## Comment l'utiliser
 
-1. Clone le projet :
+ Clone le projet :
 ```
   $ git clone git@github.com:balaidaitaoual/GaleriePhotos.git
 ```
